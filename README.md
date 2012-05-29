@@ -18,3 +18,11 @@ This is how you use it:
     ok
     2> hello:world().
     "Hello world!"
+
+
+License
+-------
+
+Choose any [OSI][1] approved license you want.
+
+[1]: http://opensource.org/
